@@ -1,0 +1,13 @@
+1. Main architecture decisions you've made and a quick explanation of why.
+- The main architecture used is MVC (model-view-controller). 
+- The Model–view–controller shortly known as MVC is a software architectural design for implementing user interfaces on computers. 
+- The MVC pattern is a great architecture no matter whatever the language you are using for the development.
+
+2. List of third-party libraries and why you chose each one.
+- Used google place API. It provides location search based on input and current location plus nearby radius.
+
+3. What could be improved if you had more time?
+- Allow a user to show some automated text while searching for any location from the search bar.
+
+4. Mention anything that was asked but not delivered and why and any additional comments.
+- Tried to add everything.
